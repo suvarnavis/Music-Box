@@ -1,0 +1,33 @@
+.box {
+  border: 1px solid black;
+  height: 40px;
+  width:40px;
+  display:inline-block;
+}
+.blue:hover{
+  background-color:blue;}
+  
+.green:hover{
+  background-color:green;}
+
+.red:hover{
+  background-color:red;}
+  
+.yellow:hover{
+  background-color:yellow;}
+  
+.black:hover{
+  background-color:black;}
+
+.orange:hover{
+  background-color:orange;}
+  
+.white:hover{
+  background-color:white;}
+  
+.brown:hover{
+  background-color:brown;}
+
+
+  
+
